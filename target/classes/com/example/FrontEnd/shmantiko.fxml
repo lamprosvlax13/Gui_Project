@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane fx:id="borderPane" maxWidth="-Infinity" minHeight="-Infinity" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.FrontEnd.Listener">
+   <center>
+      <TabPane tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+        <tabs>
+          <Tab onSelectionChanged="#setLifeExpectansyFields" text="LifeExpectansy">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="606.0" prefWidth="1421.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="infant_mortality" mnemonicParsing="false" text="infant_mortality" />
+                              <CheckBox fx:id="infant_mortality_male" mnemonicParsing="false" text="infant_mortality_male" GridPane.rowIndex="1" />
+                              <CheckBox fx:id="infant_mortality_female" mnemonicParsing="false" text="infant_mortality_female" GridPane.rowIndex="2" />
+                              <CheckBox fx:id="life_expectancy" mnemonicParsing="false" text="life_expectancy" GridPane.rowIndex="3" />
+                              <CheckBox fx:id="life_expectancy_male" mnemonicParsing="false" text="life_expectancy_male" GridPane.rowIndex="4" />
+                              <CheckBox fx:id="life_expectancy_female" mnemonicParsing="false" text="life_expectancy_female" GridPane.rowIndex="5" />
+                              <CheckBox fx:id="mortality_rate_under5" mnemonicParsing="false" text="mortality_rate_under5" GridPane.rowIndex="6" />
+                              <CheckBox fx:id="mortality_rate_under5_male" mnemonicParsing="false" text="mortality_rate_under5_male" GridPane.rowIndex="7" />
+                              <CheckBox fx:id="mortality_rate_under5_female" mnemonicParsing="false" text="mortality_rate_under5_female" GridPane.rowIndex="8" />
+                              <CheckBox fx:id="mortality_rate_1to4" mnemonicParsing="false" text="mortality_rate_1to4" GridPane.rowIndex="9" />
+                              <CheckBox fx:id="mortality_rate_1to4_male" mnemonicParsing="false" text="mortality_rate_1to4_male" GridPane.rowIndex="10" />
+                              <CheckBox fx:id="mortality_rate_1to4_female" mnemonicParsing="false" text="mortality_rate_1to4_female" GridPane.rowIndex="11" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab onSelectionChanged="#setBirthDeathGrowth" text="BirthDeathGrowth">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="77.0" layoutY="65.0" prefHeight="364.0" prefWidth="538.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="crude_birth_rate" mnemonicParsing="false" text="crude_birth_rate" />
+                              <CheckBox fx:id="crude_death_rate" mnemonicParsing="false" text="crude_death_rate" GridPane.rowIndex="1" />
+                              <CheckBox fx:id="net_migration" mnemonicParsing="false" text="net_migration" GridPane.rowIndex="2" />
+                              <CheckBox fx:id="rate_natural_increase" mnemonicParsing="false" text="rate_natural_increase" GridPane.rowIndex="3" />
+                              <CheckBox fx:id="growth_rate" mnemonicParsing="false" text="growth_rate" GridPane.rowIndex="4" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+            </content>
+            </Tab>
+            <Tab onSelectionChanged="#setFertilityRates" text="FertilityRates">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="total_fertility_rate" mnemonicParsing="false" text="total_fertility_rate" />
+                              <CheckBox fx:id="gross_reproduction_rate" mnemonicParsing="false" text="gross_reproduction_rate" GridPane.rowIndex="1" />
+                              <CheckBox fx:id="sex_ratio_at_birth" mnemonicParsing="false" text="sex_ratio_at_birth" GridPane.rowIndex="2" />
+                              <CheckBox fx:id="fertility_rate_15_19" mnemonicParsing="false" text="fertility_rate_15_19" GridPane.rowIndex="3" />
+                              <CheckBox fx:id="fertility_rate_20_24" mnemonicParsing="false" text="fertility_rate_20_24" GridPane.rowIndex="4" />
+                              <CheckBox fx:id="fertility_rate_25_29" mnemonicParsing="false" text="fertility_rate_25_29" GridPane.rowIndex="5" />
+                              <CheckBox fx:id="fertility_rate_30_34" mnemonicParsing="false" text="fertility_rate_30_34" GridPane.rowIndex="6" />
+                              <CheckBox fx:id="fertility_rate_35_39" mnemonicParsing="false" text="fertility_rate_35_39" GridPane.rowIndex="7" />
+                              <CheckBox fx:id="fertility_rate_40_44" mnemonicParsing="false" text="fertility_rate_40_44" GridPane.rowIndex="8" />
+                              <CheckBox fx:id="fertility_rate_45_49" mnemonicParsing="false" text="fertility_rate_45_49" GridPane.rowIndex="9" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="if you wanna sum of fertilityes choose button sum and select boxes, If you wanna just the values not selected this" wrappingWidth="185.375" GridPane.rowIndex="11" />
+                              <CheckBox fx:id="sumOfFertilitys" mnemonicParsing="false" text="sumOFfertilityes" GridPane.columnIndex="1" GridPane.rowIndex="11" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#setMidYearpopulation" text="MidYearPopulation">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="MidYearPopulation" mnemonicParsing="false" text="midYear_population" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#setMidYear5Yearagesex" text="MidYearPopulation5YEARAgeSex">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="117.0" layoutY="75.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="MidYearPopulation5year" mnemonicParsing="false" text="midyearPopulation" GridPane.rowIndex="2" />
+                              <CheckBox fx:id="midyear_population_male5year" mnemonicParsing="false" text="midyearPopulation_male" GridPane.rowIndex="3" />
+                              <CheckBox fx:id="midyear_population_female5year" mnemonicParsing="false" text="midyearPopulation_female" GridPane.rowIndex="4" />
+                              <TextField fx:id="starting_age" promptText="eg. 6" GridPane.columnIndex="1" />
+                              <TextField fx:id="ending_age" promptText="eg 50" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Starting age :" wrappingWidth="181.171875" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Ending Age :" wrappingWidth="180.94921875" GridPane.rowIndex="1" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#setmidYearPopulationMaleFemale" text="midYearPopulationMaleFemale">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="MidYearPopulationMaleFelame" mnemonicParsing="false" text="midYearPopulation" />
+                              <CheckBox fx:id="midyear_population_male" mnemonicParsing="false" text="midYear_population_male" GridPane.rowIndex="1" />
+                              <CheckBox fx:id="midyear_population_female" mnemonicParsing="false" text="midYear_population_female" GridPane.rowIndex="2" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#setMidPopAgeSex" text="MidPopAgeSex">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="MidYearPopulationAgeSex" mnemonicParsing="false" text="population" GridPane.rowIndex="2" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Age Rate :" wrappingWidth="137.8828125" GridPane.rowIndex="3" />
+                              <TextField fx:id="ageRate" promptText="Give a rate age e.g 0-25" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1">
+                                 <children>
+                                    <CheckBox fx:id="Male" mnemonicParsing="false" text="Male" />
+                                    <CheckBox fx:id="Female" mnemonicParsing="false" text="Female" />
+                                    <CheckBox fx:id="Total" mnemonicParsing="false" text="Total" />
+                                 </children>
+                              </HBox>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Sex :" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Age :" GridPane.rowIndex="1" />
+                              <TextField fx:id="age" promptText="give age e.g 4" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#setBigData" text="BigData">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="89.0" layoutY="92.0" prefHeight="207.0" prefWidth="415.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="203.0" minWidth="10.0" prefWidth="100.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="315.0" minWidth="10.0" prefWidth="315.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="sex :" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Age :" GridPane.rowIndex="1" />
+                              <CheckBox fx:id="populationBig" mnemonicParsing="false" text="populationBig" GridPane.rowIndex="2" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Age Rate :" GridPane.rowIndex="3" />
+                              <TextField fx:id="rangeYearBig" promptText="Give a rate age e.g 0,24" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <HBox layoutX="5.0" layoutY="5.0" spacing="5.0" GridPane.columnIndex="1">
+                                 <children>
+                                    <CheckBox fx:id="MaleBig" mnemonicParsing="false" text="Male">
+                                       <HBox.margin>
+                                          <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                       </HBox.margin>
+                                    </CheckBox>
+                                    <CheckBox fx:id="FemaleBig" mnemonicParsing="false" text="Female">
+                                       <HBox.margin>
+                                          <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                       </HBox.margin>
+                                    </CheckBox>
+                                    <CheckBox fx:id="TotalBig" mnemonicParsing="false" text="Total">
+                                       <HBox.margin>
+                                          <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                       </HBox.margin>
+                                    </CheckBox>
+                                 </children>
+                                 <padding>
+                                    <Insets bottom="5.0" left="4.0" right="5.0" top="5.0" />
+                                 </padding>
+                                 <GridPane.margin>
+                                    <Insets />
+                                 </GridPane.margin>
+                              </HBox>
+                              <TextField fx:id="ageBigData" promptText="eg. 4 " GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#SetIncomeBycountry" text="Income By country">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <CheckBox fx:id="IncomeIndexValue" mnemonicParsing="false" text="Income_Index_Value" />
+                              <CheckBox fx:id="LabourValue" mnemonicParsing="false" text="Labour_Of_Value" GridPane.rowIndex="1" />
+                              <CheckBox fx:id="GrossValue" mnemonicParsing="false" text="Gross_Fixed_Value" GridPane.rowIndex="2" />
+                              <CheckBox fx:id="GdptotalValue" mnemonicParsing="false" text="Gdp_Total_Value" GridPane.rowIndex="3" />
+                              <CheckBox fx:id="GdpPerCapitaValue" mnemonicParsing="false" text="Gdp_Per_Capita_Value" GridPane.rowIndex="4" />
+                              <CheckBox fx:id="GniPerCapitaValue" mnemonicParsing="false" text="Gni_Per_Capita_Value" GridPane.rowIndex="5" />
+                              <CheckBox fx:id="EstimetedGniMaleValue" mnemonicParsing="false" text="GNi_Male_Value" GridPane.rowIndex="6" />
+                              <CheckBox fx:id="EstimetedGniFemaleValue" mnemonicParsing="false" text="GNi_Female_Value" GridPane.rowIndex="7" />
+                              <CheckBox fx:id="DomesticValue" mnemonicParsing="false" text="credit_data_value" GridPane.rowIndex="8" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab onSelectionChanged="#setGraph" text="Set Year Countries">
+               <content>
+                  <AnchorPane fx:id="okClicked" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="61.0" layoutY="45.0" prefHeight="372.0" prefWidth="412.0">
+                           <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="327.0" minWidth="10.0" prefWidth="119.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="223.0" minWidth="10.0" prefWidth="223.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Give Countries by comma" />
+                              <TextField fx:id="countriesByComma" promptText="e.g Greece,Italy" GridPane.columnIndex="1" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Give Year Range" GridPane.rowIndex="1" />
+                              <TextField fx:id="rangeYear" promptText="e.g 1950-2050" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="choose Type Diagramm" GridPane.rowIndex="4" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="by :" GridPane.rowIndex="2" />
+                              <TextField fx:id="by" promptText="e.g 1  or 5 or 10" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                              <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                                 <children>
+                                    <CheckBox fx:id="TypeGraphTimeLine" mnemonicParsing="false" text="TimeLine" />
+                                    <CheckBox fx:id="TypeGraphTrendLine" mnemonicParsing="false" text="TrendLine" />
+                                    <CheckBox fx:id="TypeGraphScatterPlot" mnemonicParsing="false" text="ScatterPlot" />
+                                    <CheckBox fx:id="TypeGraphBarchart" mnemonicParsing="false" text="BarChart" />
+
+                                 </children>
+                              </HBox>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Xaxis :" GridPane.rowIndex="3" />
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" GridPane.rowIndex="4" />
+                              <TextField fx:id="fieldNameforX" promptText="fieldNameforX" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <Button cache="true" mnemonicParsing="false" onAction="#okCliked" text="Ok" textAlignment="JUSTIFY" textOverrun="WORD_ELLIPSIS" GridPane.columnIndex="1" GridPane.rowIndex="14">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                                 <padding>
+                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                 </padding>
+                              </Button>
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+   </center>
+</BorderPane>

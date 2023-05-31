@@ -1,0 +1,253 @@
+iso_code,ISO,ISO3,FIPS,Display_Name,Official_Name,Capital,Continent,CurrencyCode,CurrencyName,Phone,Region Code,Region Name,Sub-region Code,Sub-region Name,Intermediate Region Code,Intermediate Region Name,Status,Developed or Developing,Small Island Developing States (SIDS),Land Locked Developing Countries (LLDC),Least Developed Countries (LDC),Area_SqKm,Population
+4,AF,AFG,AF,Afghanistan,Afghanistan,Kabul,Asia,AFN,Afghani,93,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,TRUE,TRUE,647500,29121286
+248,AX,ALA,Not found,Aland Islands,Åland Islands,Mariehamn,Europe,EUR,Euro,340,150,Europe,154,Northern Europe,Not found,Not found,Part of FI,Developed,Not found,Not found,Not found,1580,26711
+8,AL,ALB,AL,Albania,Albania,Tirana,Europe,ALL,Lek,355,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,28748,2986952
+12,DZ,DZA,AG,Algeria,Algeria,Algiers,Africa,DZD,Dinar,213,2,Africa,15,Northern Africa,Not found,Not found,Independent,Developing,Not found,Not found,Not found,2381740,34586184
+16,AS,ASM,AQ,American Samoa,American Samoa,Pago Pago,Oceania,USD,Dollar,-683,9,Oceania,61,Polynesia,Not found,Not found,Territory of US,Developing,TRUE,Not found,Not found,199,57881
+20,AD,AND,AN,Andorra,Andorra,Andorra la Vella,Europe,EUR,Euro,376,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,468,84000
+24,AO,AGO,AO,Angola,Angola,Luanda,Africa,AOA,Kwanza,244,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,Not found,TRUE,1246700,13068161
+660,AI,AIA,AV,Anguilla,Anguilla,The Valley,North America,XCD,Dollar,-263,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,Not found,Not found,102,13254
+10,AQ,ATA,AY,Antarctica,Antarctica,Not found,Antarctica,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,International,Not found,Not found,Not found,Not found,14000000,0
+28,AG,ATG,AC,Antigua and Barbuda,Antigua and Barbuda,St. John's,North America,XCD,Dollar,-267,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,443,86754
+32,AR,ARG,AR,Argentina,Argentina,Buenos Aires,South America,ARS,Peso,54,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,2766890,41343201
+51,AM,ARM,AM,Armenia,Armenia,Yerevan,Asia,AMD,Dram,374,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,29800,2968000
+533,AW,ABW,AA,Aruba,Aruba,Oranjestad,North America,AWG,Guilder,297,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,Not found,Not found,193,71566
+36,AU,AUS,AS,Australia,Australia,Canberra,Oceania,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,Not found,Not found,Independent,Developed,Not found,Not found,Not found,7686850,21515754
+40,AT,AUT,AU,Austria,Austria,Vienna,Europe,EUR,Euro,43,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,83858,8205000
+31,AZ,AZE,AJ,Azerbaijan,Azerbaijan,Baku,Asia,AZN,Manat,994,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,86600,8303512
+44,BS,BHS,BF,Bahamas,Bahamas,Nassau,North America,BSD,Dollar,-241,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,13940,301790
+48,BH,BHR,BA,Bahrain,Bahrain,Manama,Asia,BHD,Dinar,973,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,665,738004
+50,BD,BGD,BG,Bangladesh,Bangladesh,Dhaka,Asia,BDT,Taka,880,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,Not found,TRUE,144000,156118464
+52,BB,BRB,BB,Barbados,Barbados,Bridgetown,North America,BBD,Dollar,-245,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,431,285653
+112,BY,BLR,BO,Belarus,Belarus,Minsk,Europe,BYN,Belarusian ruble,375,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,207600,9685000
+56,BE,BEL,BE,Belgium,Belgium,Brussels,Europe,EUR,Euro,32,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,30510,10403000
+84,BZ,BLZ,BH,Belize,Belize,Belmopan,North America,BZD,Dollar,501,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,TRUE,Not found,Not found,22966,314522
+204,BJ,BEN,BN,Benin,Benin,Porto-Novo,Africa,XOF,Franc,229,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,112620,9056010
+60,BM,BMU,BD,Bermuda,Bermuda,Hamilton,North America,BMD,Dollar,-440,19,Americas,21,Northern America,Not found,Not found,Territory of GB,Developed,Not found,Not found,Not found,53,65365
+64,BT,BTN,BT,Bhutan,Bhutan,Thimphu,Asia,BTN,Ngultrum,975,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,TRUE,TRUE,47000,699847
+68,BO,BOL,BL,Bolivia,Bolivia (Plurinational State of),Sucre,South America,BOB,Boliviano,591,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,TRUE,Not found,1098580,9947418
+535,BQ,BES,Not found,"Bonaire, Saint Eustatius and Saba ","Bonaire, Sint Eustatius and Saba",Not found,North America,USD,Dollar,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,Not found,Not found,328,18012
+70,BA,BIH,BK,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,BAM,Marka,387,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,51129,4590000
+72,BW,BWA,BC,Botswana,Botswana,Gaborone,Africa,BWP,Pula,267,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,Not found,TRUE,Not found,600370,2029307
+74,BV,BVT,BV,Bouvet Island,Bouvet Island,Not found,Antarctica,NOK,Krone,Not found,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of NO,Developing,Not found,Not found,Not found,49,0
+76,BR,BRA,BR,Brazil,Brazil,Brasilia,South America,BRL,Real,55,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,8511965,201103330
+86,IO,IOT,IO,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia,Asia,USD,Dollar,246,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Territory of GB,Developing,Not found,Not found,Not found,60,4000
+92,VG,VGB,VI,British Virgin Islands,British Virgin Islands,Road Town,North America,USD,Dollar,-283,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,Not found,Not found,153,21730
+96,BN,BRN,BX,Brunei,Brunei Darussalam,Bandar Seri Begawan,Asia,BND,Dollar,673,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,5770,395027
+100,BG,BGR,BU,Bulgaria,Bulgaria,Sofia,Europe,BGN,Lev,359,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,110910,7148785
+854,BF,BFA,UV,Burkina Faso,Burkina Faso,Ouagadougou,Africa,XOF,Franc,226,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,TRUE,TRUE,274200,16241811
+108,BI,BDI,BY,Burundi,Burundi,Bujumbura,Africa,BIF,Franc,257,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,27830,9863117
+116,KH,KHM,CB,Cambodia,Cambodia,Phnom Penh,Asia,KHR,Riels,855,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,TRUE,181040,14453680
+120,CM,CMR,CM,Cameroon,Cameroon,Yaounde,Africa,XAF,Franc,237,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,Not found,Not found,475440,19294149
+124,CA,CAN,CA,Canada,Canada,Ottawa,North America,CAD,Dollar,1,19,Americas,21,Northern America,Not found,Not found,Independent,Developed,Not found,Not found,Not found,9984670,33679000
+132,CV,CPV,CV,Cape Verde,Cabo Verde,Praia,Africa,CVE,Escudo,238,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,Not found,Not found,4033,508659
+136,KY,CYM,CJ,Cayman Islands,Cayman Islands,George Town,North America,KYD,Dollar,-344,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,Not found,Not found,Not found,262,44270
+140,CF,CAF,CT,Central African Republic,Central African Republic,Bangui,Africa,XAF,Franc,236,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,TRUE,TRUE,622984,4844927
+148,TD,TCD,CD,Chad,Chad,N'Djamena,Africa,XAF,Franc,235,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,TRUE,TRUE,1284000,10543464
+152,CL,CHL,CI,Chile,Chile,Santiago,South America,CLP,Peso,56,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,756950,16746491
+156,CN,CHN,CH,China,China,Beijing,Asia,CNY,Yuan Renminbi,86,142,Asia,30,Eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,9596960,1330044000
+162,CX,CXR,KT,Christmas Island,Christmas Island,Flying Fish Cove,Oceania,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,Not found,Not found,Territory of AU,Developed,Not found,Not found,Not found,135,1500
+166,CC,CCK,CK,Cocos Islands,Cocos (Keeling) Islands,West Island,Asia,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,Not found,Not found,Territory of AU,Developed,Not found,Not found,Not found,14,628
+170,CO,COL,CO,Colombia,Colombia,Bogota,South America,COP,Peso,57,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,1138910,47790000
+174,KM,COM,CN,Comoros,Comoros,Moroni,Africa,KMF,Franc,269,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,Not found,TRUE,2170,773407
+184,CK,COK,CW,Cook Islands,Cook Islands,Avarua,Oceania,NZD,Dollar,682,9,Oceania,61,Polynesia,Not found,Not found,Associated with NZ,Developing,TRUE,Not found,Not found,240,21388
+188,CR,CRI,CS,Costa Rica,Costa Rica,San Jose,North America,CRC,Colon,506,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,51100,4516220
+191,HR,HRV,HR,Croatia,Croatia,Zagreb,Europe,HRK,Kuna,385,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,56542,4284889
+192,CU,CUB,CU,Cuba,Cuba,Havana,North America,CUP,Peso,53,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,110860,11423000
+531,CW,CUW,UC,Curacao,Curaçao, Willemstad,North America,ANG,Guilder,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,Not found,Not found,444,141766
+196,CY,CYP,CY,Cyprus,Cyprus,Nicosia,Europe,EUR,Euro,357,142,Asia,145,Western Asia,Not found,Not found,Independent,Developed,Not found,Not found,Not found,9250,1102677
+203,CZ,CZE,EZ,Czechia,Czechia,Prague,Europe,CZK,Koruna,420,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,78866,10476000
+180,CD,COD,CG,Democratic Republic of the Congo,Democratic Republic of the Congo,Kinshasa,Africa,CDF,Franc,243,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,Not found,TRUE,2345410,70916439
+208,DK,DNK,DA,Denmark,Denmark,Copenhagen,Europe,DKK,Krone,45,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,43094,5484000
+262,DJ,DJI,DJ,Djibouti,Djibouti,Djibouti,Africa,DJF,Franc,253,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,TRUE,23000,740528
+212,DM,DMA,DO,Dominica,Dominica,Roseau,North America,XCD,Dollar,-766,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,754,72813
+214,DO,DOM,DR,Dominican Republic,Dominican Republic,Santo Domingo,North America,DOP,Peso,+1-809 and 1-829,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,48730,9823821
+218,EC,ECU,EC,Ecuador,Ecuador,Quito,South America,USD,Dollar,593,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,283560,14790608
+818,EG,EGY,EG,Egypt,Egypt,Cairo,Africa,EGP,Pound,20,2,Africa,15,Northern Africa,Not found,Not found,Independent,Developing,Not found,Not found,Not found,1001450,80471869
+222,SV,SLV,ES,El Salvador,El Salvador,San Salvador,North America,USD,Dollar,503,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,21040,6052064
+226,GQ,GNQ,EK,Equatorial Guinea,Equatorial Guinea,Malabo,Africa,XAF,Franc,240,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,Not found,Not found,28051,1014999
+232,ER,ERI,ER,Eritrea,Eritrea,Asmara,Africa,ERN,Nakfa,291,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,TRUE,121320,5792984
+233,EE,EST,EN,Estonia,Estonia,Tallinn,Europe,EUR,Euro,372,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,45226,1291170
+231,ET,ETH,ET,Ethiopia,Ethiopia,Addis Ababa,Africa,ETB,Birr,251,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,1127127,88013491
+238,FK,FLK,FK,Falkland Islands,Falkland Islands (Malvinas),Stanley,South America,FKP,Pound,500,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of GB,Developing,Not found,Not found,Not found,12173,2638
+234,FO,FRO,FO,Faroe Islands,Faroe Islands,Torshavn,Europe,DKK,Krone,298,150,Europe,154,Northern Europe,Not found,Not found,Part of DK,Developed,Not found,Not found,Not found,1399,48228
+242,FJ,FJI,FJ,Fiji,Fiji,Suva,Oceania,FJD,Dollar,679,9,Oceania,54,Melanesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,18270,875983
+246,FI,FIN,FI,Finland,Finland,Helsinki,Europe,EUR,Euro,358,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,337030,5244000
+250,FR,FRA,FR,France,France,Paris,Europe,EUR,Euro,33,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,547030,64768389
+254,GF,GUF,FG,French Guiana,French Guiana,Cayenne,South America,EUR,Euro,594,19,Americas,419,Latin America and the Caribbean,5,South America,Part of FR,Developing,Not found,Not found,Not found,91000,195506
+258,PF,PYF,FP,French Polynesia,French Polynesia,Papeete,Oceania,XPF,Franc,689,9,Oceania,61,Polynesia,Not found,Not found,Territory of FR,Developing,TRUE,Not found,Not found,4167,270485
+260,TF,ATF,FS,French Southern Territories,French Southern Territories,Port-aux-Francais,Antarctica,EUR,Euro  ,Not found,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Territory of FR,Developing,Not found,Not found,Not found,7829,140
+266,GA,GAB,GB,Gabon,Gabon,Libreville,Africa,XAF,Franc,241,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,Not found,Not found,267667,1545255
+270,GM,GMB,GA,Gambia,Gambia,Banjul,Africa,GMD,Dalasi,220,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,11300,1593256
+268,GE,GEO,GG,Georgia,Georgia,Tbilisi,Asia,GEL,Lari,995,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,69700,4630000
+276,DE,DEU,GM,Germany,Germany,Berlin,Europe,EUR,Euro,49,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,357021,81802257
+288,GH,GHA,GH,Ghana,Ghana,Accra,Africa,GHS,Cedi,233,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,Not found,239460,24339838
+292,GI,GIB,GI,Gibraltar,Gibraltar,Gibraltar,Europe,GIP,Pound,350,150,Europe,39,Southern Europe,Not found,Not found,Territory of GB,Developed,Not found,Not found,Not found,6.5,27884
+300,GR,GRC,GR,Greece,Greece,Athens,Europe,EUR,Euro,30,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,131940,11000000
+304,GL,GRL,GL,Greenland,Greenland,Nuuk,North America,DKK,Krone,299,19,Americas,21,Northern America,Not found,Not found,Part of DK,Developed,Not found,Not found,Not found,2166086,56375
+308,GD,GRD,GJ,Grenada,Grenada,St. George's,North America,XCD,Dollar,-472,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,344,107818
+312,GP,GLP,GP,Guadeloupe,Guadeloupe,Basse-Terre,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,Not found,Not found,Not found,1780,443000
+316,GU,GUM,GQ,Guam,Guam,Hagatna,Oceania,USD,Dollar,-670,9,Oceania,57,Micronesia,Not found,Not found,Territory of US,Developing,TRUE,Not found,Not found,549,159358
+320,GT,GTM,GT,Guatemala,Guatemala,Guatemala City,North America,GTQ,Quetzal,502,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,108890,13550440
+831,GG,GGY,GK,Guernsey,Guernsey,St Peter Port,Europe,GBP,Pound,-1437,150,Europe,154,Northern Europe,830,Channel Islands,Crown dependency of GB,Developed,Not found,Not found,Not found,78,65228
+324,GN,GIN,GV,Guinea,Guinea,Conakry,Africa,GNF,Franc,224,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,245857,10324025
+624,GW,GNB,PU,Guinea-Bissau,Guinea-Bissau,Bissau,Africa,XOF,Franc,245,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,Not found,TRUE,36120,1565126
+328,GY,GUY,GY,Guyana,Guyana,Georgetown,South America,GYD,Dollar,592,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,Not found,Not found,214970,748486
+332,HT,HTI,HA,Haiti,Haiti,Port-au-Prince,North America,HTG,Gourde,509,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,TRUE,27750,9648924
+334,HM,HMD,HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Not found,Antarctica,AUD,Dollar, ,9,Oceania,53,Australia and New Zealand,Not found,Not found,Territory of AU,Developed,Not found,Not found,Not found,412,0
+340,HN,HND,HO,Honduras,Honduras,Tegucigalpa,North America,HNL,Lempira,504,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,112090,7989415
+344,HK,HKG,HK,Hong Kong,"China, Hong Kong Special Administrative Region",Hong Kong,Asia,HKD,Dollar,852,142,Asia,30,Eastern Asia,Not found,Not found,Part of CN,Developing,Not found,Not found,Not found,1092,6898686
+348,HU,HUN,HU,Hungary,Hungary,Budapest,Europe,HUF,Forint,36,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,93030,9982000
+352,IS,ISL,IC,Iceland,Iceland,Reykjavik,Europe,ISK,Krona,354,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,103000,308910
+356,IN,IND,IN,India,India,New Delhi,Asia,INR,Rupee,91,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,3287590,1173108018
+360,ID,IDN,ID,Indonesia,Indonesia,Jakarta,Asia,IDR,Rupiah,62,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,1919440,242968342
+364,IR,IRN,IR,Iran,Iran (Islamic Republic of),Tehran,Asia,IRR,Rial,98,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,1648000,76923300
+368,IQ,IRQ,IZ,Iraq,Iraq,Baghdad,Asia,IQD,Dinar,964,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,437072,29671605
+372,IE,IRL,EI,Ireland,Ireland,Dublin,Europe,EUR,Euro,353,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,70280,4622917
+833,IM,IMN,IM,Isle of Man,Isle of Man,Douglas,Europe,GBP,Pound,-1580,150,Europe,154,Northern Europe,Not found,Not found,Crown dependency of GB,Developed,Not found,Not found,Not found,572,75049
+376,IL,ISR,IS,Israel,Israel,Jerusalem,Asia,ILS,Shekel,972,142,Asia,145,Western Asia,Not found,Not found,Independent,Developed,Not found,Not found,Not found,20770,7353985
+380,IT,ITA,IT,Italy,Italy,Rome,Europe,EUR,Euro,39,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,301230,60340328
+384,CI,CIV,IV,Ivory Coast,Côte d'Ivoire,Yamoussoukro,Africa,XOF,Franc,225,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,Not found,322460,21058798
+388,JM,JAM,JM,Jamaica,Jamaica,Kingston,North America,JMD,Dollar,-875,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,10991,2847232
+392,JP,JPN,JA,Japan,Japan,Tokyo,Asia,JPY,Yen,81,142,Asia,30,Eastern Asia,Not found,Not found,Independent,Developed,Not found,Not found,Not found,377835,127288000
+832,JE,JEY,JE,Jersey,Jersey,Saint Helier,Europe,GBP,Pound,-1490,150,Europe,154,Northern Europe,830,Channel Islands,Crown dependency of GB,Developed,Not found,Not found,Not found,116,90812
+400,JO,JOR,JO,Jordan,Jordan,Amman,Asia,JOD,Dinar,962,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,92300,6407085
+398,KZ,KAZ,KZ,Kazakhstan,Kazakhstan,Astana,Asia,KZT,Tenge,7,142,Asia,143,Central Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,2717300,15340000
+404,KE,KEN,KE,Kenya,Kenya,Nairobi,Africa,KES,Shilling,254,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,Not found,582650,40046566
+296,KI,KIR,KR,Kiribati,Kiribati,Tarawa,Oceania,AUD,Dollar,686,9,Oceania,57,Micronesia,Not found,Not found,Independent,Developing,TRUE,Not found,TRUE,811,92533
+0,XK,XKX,KV,Kosovo,Not found,Pristina,Europe,EUR,Euro,Not found,150,Europe,39,Southern Europe,Not found,Not found,#N/A,#N/A,#N/A,#N/A,#N/A,10908,1800000
+414,KW,KWT,KU,Kuwait,Kuwait,Kuwait City,Asia,KWD,Dinar,965,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,17820,2789132
+417,KG,KGZ,KG,Kyrgyzstan,Kyrgyzstan,Bishkek,Asia,KGS,Som,996,142,Asia,143,Central Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,198500,5776500
+418,LA,LAO,LA,Laos,Lao People's Democratic Republic,Vientiane,Asia,LAK,Kip,856,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,TRUE,TRUE,236800,6368162
+428,LV,LVA,LG,Latvia,Latvia,Riga,Europe,EUR,Euro,371,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,64589,2217969
+422,LB,LBN,LE,Lebanon,Lebanon,Beirut,Asia,LBP,Pound,961,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,10400,4125247
+426,LS,LSO,LT,Lesotho,Lesotho,Maseru,Africa,LSL,Loti,266,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,Not found,TRUE,TRUE,30355,1919552
+430,LR,LBR,LI,Liberia,Liberia,Monrovia,Africa,LRD,Dollar,231,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,111370,3685076
+434,LY,LBY,LY,Libya,Libya,Tripoli,Africa,LYD,Dinar,218,2,Africa,15,Northern Africa,Not found,Not found,Independent,Developing,Not found,Not found,Not found,1759540,6461454
+438,LI,LIE,LS,Liechtenstein,Liechtenstein,Vaduz,Europe,CHF,Franc,423,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,160,35000
+440,LT,LTU,LH,Lithuania,Lithuania,Vilnius,Europe,EUR,Euro,370,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,65200,2944459
+442,LU,LUX,LU,Luxembourg,Luxembourg,Luxembourg,Europe,EUR,Euro,352,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,2586,497538
+446,MO,MAC,MC,Macao,"China, Macao Special Administrative Region",Macao,Asia,MOP,Pataca,853,142,Asia,30,Eastern Asia,Not found,Not found,Part of CN,Developing,Not found,Not found,Not found,254,449198
+807,MK,MKD,MK,Macedonia,The former Yugoslav Republic of Macedonia,Skopje,Europe,MKD,Denar,389,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,TRUE,Not found,25333,2062294
+450,MG,MDG,MA,Madagascar,Madagascar,Antananarivo,Africa,MGA,Ariary,261,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,TRUE,587040,21281844
+454,MW,MWI,MI,Malawi,Malawi,Lilongwe,Africa,MWK,Kwacha,265,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,118480,15447500
+458,MY,MYS,MY,Malaysia,Malaysia,Kuala Lumpur,Asia,MYR,Ringgit,60,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,329750,28274729
+462,MV,MDV,MV,Maldives,Maldives,Male,Asia,MVR,Rufiyaa,960,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,300,395650
+466,ML,MLI,ML,Mali,Mali,Bamako,Africa,XOF,Franc,223,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,TRUE,TRUE,1240000,13796354
+470,MT,MLT,MT,Malta,Malta,Valletta,Europe,EUR,Euro,356,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,316,403000
+584,MH,MHL,RM,Marshall Islands,Marshall Islands,Majuro,Oceania,USD,Dollar,692,9,Oceania,57,Micronesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,181.3,65859
+474,MQ,MTQ,MB,Martinique,Martinique,Fort-de-France,North America,EUR,Euro,596,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,Not found,Not found,Not found,1100,432900
+478,MR,MRT,MR,Mauritania,Mauritania,Nouakchott,Africa,MRO,Ouguiya,222,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,1030700,3205060
+480,MU,MUS,MP,Mauritius,Mauritius,Port Louis,Africa,MUR,Rupee,230,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,Not found,Not found,2040,1294104
+175,YT,MYT,MF,Mayotte,Mayotte,Mamoudzou,Africa,EUR,Euro,262,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Part of FR,Developing,Not found,Not found,Not found,374,159042
+484,MX,MEX,MX,Mexico,Mexico,Mexico City,North America,MXN,Peso,52,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,1972550,112468855
+583,FM,FSM,FM,Micronesia,Micronesia (Federated States of),Palikir,Oceania,USD,Dollar,691,9,Oceania,57,Micronesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,702,107708
+498,MD,MDA,MD,Moldova,Republic of Moldova,Chisinau,Europe,MDL,Leu,373,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,TRUE,Not found,33843,4324000
+492,MC,MCO,MN,Monaco,Monaco,Monaco,Europe,EUR,Euro,377,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,1.95,32965
+496,MN,MNG,MG,Mongolia,Mongolia,Ulan Bator,Asia,MNT,Tugrik,976,142,Asia,30,Eastern Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,1565000,3086918
+499,ME,MNE,MJ,Montenegro,Montenegro,Podgorica,Europe,EUR,Euro,382,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,14026,666730
+500,MS,MSR,MH,Montserrat,Montserrat,Plymouth,North America,XCD,Dollar,-663,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,Not found,Not found,102,9341
+504,MA,MAR,MO,Morocco,Morocco,Rabat,Africa,MAD,Dirham,212,2,Africa,15,Northern Africa,Not found,Not found,Independent,Developing,Not found,Not found,Not found,446550,33848242
+508,MZ,MOZ,MZ,Mozambique,Mozambique,Maputo,Africa,MZN,Metical,258,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,TRUE,801590,22061451
+104,MM,MMR,BM,Myanmar,Myanmar,Nay Pyi Taw,Asia,MMK,Kyat,95,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,TRUE,678500,53414374
+516,NA,NAM,WA,Namibia,Namibia,Windhoek,Africa,NAD,Dollar,264,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,Not found,Not found,Not found,825418,2128471
+520,NR,NRU,NR,Nauru,Nauru,Yaren,Oceania,AUD,Dollar,674,9,Oceania,57,Micronesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,21,10065
+524,NP,NPL,NP,Nepal,Nepal,Kathmandu,Asia,NPR,Rupee,977,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,TRUE,TRUE,140800,28951852
+528,NL,NLD,NL,Netherlands,Netherlands,Amsterdam,Europe,EUR,Euro,31,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,41526,16645000
+530,AN,ANT,NT,Netherlands Antilles,Not found,Willemstad,North America,ANG,Guilder,599,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,960,300000
+540,NC,NCL,NC,New Caledonia,New Caledonia,Noumea,Oceania,XPF,Franc,687,9,Oceania,54,Melanesia,Not found,Not found,Territory of FR,Developing,TRUE,Not found,Not found,19060,216494
+554,NZ,NZL,NZ,New Zealand,New Zealand,Wellington,Oceania,NZD,Dollar,64,9,Oceania,53,Australia and New Zealand,Not found,Not found,Independent,Developed,Not found,Not found,Not found,268680,4252277
+558,NI,NIC,NU,Nicaragua,Nicaragua,Managua,North America,NIO,Cordoba,505,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,129494,5995928
+562,NE,NER,NG,Niger,Niger,Niamey,Africa,XOF,Franc,227,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,TRUE,TRUE,1267000,15878271
+566,NG,NGA,NI,Nigeria,Nigeria,Abuja,Africa,NGN,Naira,234,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,Not found,923768,154000000
+570,NU,NIU,NE,Niue,Niue,Alofi,Oceania,NZD,Dollar,683,9,Oceania,61,Polynesia,Not found,Not found,Associated with NZ,Developing,TRUE,Not found,Not found,260,2166
+574,NF,NFK,NF,Norfolk Island,Norfolk Island,Kingston,Oceania,AUD,Dollar,672,9,Oceania,53,Australia and New Zealand,Not found,Not found,Territory of AU,Developed,Not found,Not found,Not found,34.6,1828
+408,KP,PRK,KN,North Korea,Democratic People's Republic of Korea,Pyongyang,Asia,KPW,Won,850,142,Asia,30,Eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,120540,22912177
+580,MP,MNP,CQ,Northern Mariana Islands,Northern Mariana Islands,Saipan,Oceania,USD,Dollar,-669,9,Oceania,57,Micronesia,Not found,Not found,Commonwealth of US,Developing,TRUE,Not found,Not found,477,53883
+578,NO,NOR,NO,Norway,Norway,Oslo,Europe,NOK,Krone,47,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,324220,5009150
+512,OM,OMN,MU,Oman,Oman,Muscat,Asia,OMR,Rial,968,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,212460,2967717
+586,PK,PAK,PK,Pakistan,Pakistan,Islamabad,Asia,PKR,Rupee,92,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,803940,184404791
+585,PW,PLW,PS,Palau,Palau,Melekeok,Oceania,USD,Dollar,680,9,Oceania,57,Micronesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,458,19907
+275,PS,PSE,WE,Palestinian Territory,State of Palestine,East Jerusalem,Asia,ILS,Shekel,970,142,Asia,145,Western Asia,Not found,Not found,In contention,Developing,Not found,Not found,Not found,5970,3800000
+591,PA,PAN,PM,Panama,Panama,Panama City,North America,PAB,Balboa,507,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,Not found,Not found,Not found,78200,3410676
+598,PG,PNG,PP,Papua New Guinea,Papua New Guinea,Port Moresby,Oceania,PGK,Kina,675,9,Oceania,54,Melanesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,462840,6064515
+600,PY,PRY,PA,Paraguay,Paraguay,Asuncion,South America,PYG,Guarani,595,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,TRUE,Not found,406750,6375830
+604,PE,PER,PE,Peru,Peru,Lima,South America,PEN,Sol,51,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,1285220,29907003
+608,PH,PHL,RP,Philippines,Philippines,Manila,Asia,PHP,Peso,63,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,300000,99900177
+612,PN,PCN,PC,Pitcairn,Pitcairn,Adamstown,Oceania,NZD,Dollar,870,9,Oceania,61,Polynesia,Not found,Not found,Territory of GB,Developing,Not found,Not found,Not found,47,46
+616,PL,POL,PL,Poland,Poland,Warsaw,Europe,PLN,Zloty,48,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,312685,38500000
+620,PT,PRT,PO,Portugal,Portugal,Lisbon,Europe,EUR,Euro,351,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,92391,10676000
+630,PR,PRI,RQ,Puerto Rico,Puerto Rico,San Juan,North America,USD,Dollar,+1-787 and 1-939,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Commonwealth of US,Developing,TRUE,Not found,Not found,9104,3916632
+634,QA,QAT,QA,Qatar,Qatar,Doha,Asia,QAR,Rial,974,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,11437,840926
+178,CG,COG,CF,Republic of the Congo,Congo,Brazzaville,Africa,XAF,Franc,242,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,Not found,Not found,Not found,342000,3039126
+638,RE,REU,RE,Reunion,Réunion,Saint-Denis,Africa,EUR,Euro,262,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Part of FR,Developing,Not found,Not found,Not found,2517,776948
+642,RO,ROU,RO,Romania,Romania,Bucharest,Europe,RON,Leu,40,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,237500,21959278
+643,RU,RUS,RS,Russia,Russian Federation,Moscow,Europe,RUB,Ruble,7,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,17100000,140702000
+646,RW,RWA,RW,Rwanda,Rwanda,Kigali,Africa,RWF,Franc,250,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,26338,11055976
+652,BL,BLM,TB,Saint Barthelemy,Saint Barthélemy,Gustavia,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,Not found,Not found,Not found,21,8450
+654,SH,SHN,SH,Saint Helena,Saint Helena,Jamestown,Africa,SHP,Pound,290,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Territory of GB,Developing,Not found,Not found,Not found,410,7460
+659,KN,KNA,SC,Saint Kitts and Nevis,Saint Kitts and Nevis,Basseterre,North America,XCD,Dollar,-868,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,261,51134
+662,LC,LCA,ST,Saint Lucia,Saint Lucia,Castries,North America,XCD,Dollar,-757,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,616,160922
+663,MF,MAF,RN,Saint Martin,Saint Martin (French Part),Marigot,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,Not found,Not found,Not found,53,35925
+666,PM,SPM,SB,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint-Pierre,North America,EUR,Euro,508,19,Americas,21,Northern America,Not found,Not found,Part of FR,Developed,Not found,Not found,Not found,242,7012
+670,VC,VCT,VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,North America,XCD,Dollar,-783,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,389,104217
+882,WS,WSM,WS,Samoa,Samoa,Apia,Oceania,WST,Tala,685,9,Oceania,61,Polynesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,2944,192001
+674,SM,SMR,SM,San Marino,San Marino,San Marino,Europe,EUR,Euro,378,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,61.2,31477
+678,ST,STP,TP,Sao Tome and Principe,Sao Tome and Principe,Sao Tome,Africa,STD,Dobra,239,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,TRUE,Not found,TRUE,1001,175808
+682,SA,SAU,SA,Saudi Arabia,Saudi Arabia,Riyadh,Asia,SAR,Rial,966,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,1960582,25731776
+686,SN,SEN,SG,Senegal,Senegal,Dakar,Africa,XOF,Franc,221,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,196190,12323252
+688,RS,SRB,RI,Serbia,Serbia,Belgrade,Europe,RSD,Dinar,381,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,88361,7344847
+891,CS,SCG,YI,Serbia and Montenegro,Not found,Belgrade,Europe,RSD,Dinar,381,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,Not found,102350,10829175
+690,SC,SYC,SE,Seychelles,Seychelles,Victoria,Africa,SCR,Rupee,248,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,Not found,Not found,455,88340
+694,SL,SLE,SL,Sierra Leone,Sierra Leone,Freetown,Africa,SLL,Leone,232,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,71740,5245695
+702,SG,SGP,SN,Singapore,Singapore,Singapore,Asia,SGD,Dollar,65,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,692.7,4701069
+534,SX,SXM,NN,Sint Maarten,Sint Maarten (Dutch part),Philipsburg,North America,ANG,Guilder,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,Not found,Not found,21,37429
+703,SK,SVK,LO,Slovakia,Slovakia,Bratislava,Europe,EUR,Euro,421,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,48845,5455000
+705,SI,SVN,SI,Slovenia,Slovenia,Ljubljana,Europe,EUR,Euro,386,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,20273,2007000
+90,SB,SLB,BP,Solomon Islands,Solomon Islands,Honiara,Oceania,SBD,Dollar,677,9,Oceania,54,Melanesia,Not found,Not found,Independent,Developing,TRUE,Not found,TRUE,28450,559198
+706,SO,SOM,SO,Somalia,Somalia,Mogadishu,Africa,SOS,Shilling,252,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,TRUE,637657,10112453
+710,ZA,ZAF,SF,South Africa,South Africa,Pretoria,Africa,ZAR,Rand,27,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,Not found,Not found,Not found,1219912,49000000
+239,GS,SGS,SX,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,Grytviken,Antarctica,GBP,Pound,Not found,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of GB,Developing,Not found,Not found,Not found,3903,30
+410,KR,KOR,KS,South Korea,Republic of Korea,Seoul,Asia,KRW,Won,82,142,Asia,30,Eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,98480,48422644
+728,SS,SSD,OD,South Sudan,South Sudan,Juba,Africa,SSP,Pound,211,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,644329,8260490
+724,ES,ESP,SP,Spain,Spain,Madrid,Europe,EUR,Euro,34,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,504782,46505963
+144,LK,LKA,CE,Sri Lanka,Sri Lanka,Colombo,Asia,LKR,Rupee,94,142,Asia,34,Southern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,65610,21513990
+729,SD,SDN,SU,Sudan,Sudan,Khartoum,Africa,SDG,Pound,249,2,Africa,15,Northern Africa,Not found,Not found,Independent,Developing,Not found,Not found,TRUE,1861484,35000000
+740,SR,SUR,NS,Suriname,Suriname,Paramaribo,South America,SRD,Dollar,597,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,Not found,Not found,163270,492829
+744,SJ,SJM,SV,Svalbard and Jan Mayen,Svalbard and Jan Mayen Islands,Longyearbyen,Europe,NOK,Krone,47,150,Europe,154,Northern Europe,Not found,Not found,Territory of NO,Developed,Not found,Not found,Not found,62049,2550
+748,SZ,SWZ,WZ,Swaziland,Eswatini,Mbabane,Africa,SZL,Lilangeni,268,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,Not found,TRUE,Not found,17363,1354051
+752,SE,SWE,SW,Sweden,Sweden,Stockholm,Europe,SEK,Krona,46,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,449964,9828655
+756,CH,CHE,SZ,Switzerland,Switzerland,Bern,Europe,CHF,Franc,41,150,Europe,155,Western Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,41290,7581000
+760,SY,SYR,SY,Syria,Syrian Arab Republic,Damascus,Asia,SYP,Pound,963,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,185180,22198110
+158,TW,TWN,TW,Taiwan,Republic of China,Taipei,Asia,TWD,Dollar,886,142,Asia,30,Eastern Asia,Not found,Not found,Independent,Not found,Not found,Not found,Not found,35980,22894384
+762,TJ,TJK,TI,Tajikistan,Tajikistan,Dushanbe,Asia,TJS,Somoni,992,142,Asia,143,Central Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,143100,7487489
+834,TZ,TZA,TZ,Tanzania,United Republic of Tanzania,Dodoma,Africa,TZS,Shilling,255,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,Not found,TRUE,945087,41892895
+764,TH,THA,TH,Thailand,Thailand,Bangkok,Asia,THB,Baht,66,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,514000,67089500
+626,TL,TLS,TT,Timor Leste,Timor-Leste,Dili,Oceania,USD,Dollar,670,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,TRUE,Not found,TRUE,15007,1154625
+768,TG,TGO,TO,Togo,Togo,Lome,Africa,XOF,Franc,228,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,Not found,Not found,TRUE,56785,6587239
+772,TK,TKL,TL,Tokelau,Tokelau,Not found,Oceania,NZD,Dollar,690,9,Oceania,61,Polynesia,Not found,Not found,Territory of NZ,Developing,Not found,Not found,Not found,10,1466
+776,TO,TON,TN,Tonga,Tonga,Nuku'alofa,Oceania,TOP,Pa'anga,676,9,Oceania,61,Polynesia,Not found,Not found,Independent,Developing,TRUE,Not found,Not found,748,122580
+780,TT,TTO,TD,Trinidad and Tobago,Trinidad and Tobago,Port of Spain,North America,TTD,Dollar,-867,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,Not found,Not found,5128,1328019
+788,TN,TUN,TS,Tunisia,Tunisia,Tunis,Africa,TND,Dinar,216,2,Africa,15,Northern Africa,Not found,Not found,Independent,Developing,Not found,Not found,Not found,163610,10589025
+792,TR,TUR,TU,Turkey,Turkey,Ankara,Asia,TRY,Lira,90,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,780580,77804122
+795,TM,TKM,TX,Turkmenistan,Turkmenistan,Ashgabat,Asia,TMT,Manat,993,142,Asia,143,Central Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,488100,4940916
+796,TC,TCA,TK,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,North America,USD,Dollar,-648,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,Not found,Not found,Not found,430,20556
+798,TV,TUV,TV,Tuvalu,Tuvalu,Funafuti,Oceania,AUD,Dollar,688,9,Oceania,61,Polynesia,Not found,Not found,Independent,Developing,TRUE,Not found,TRUE,26,10472
+850,VI,VIR,VQ,U.S. Virgin Islands,United States Virgin Islands,Charlotte Amalie,North America,USD,Dollar,-339,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of US,Developing,TRUE,Not found,Not found,352,108708
+800,UG,UGA,UG,Uganda,Uganda,Kampala,Africa,UGX,Shilling,256,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,236040,33398682
+804,UA,UKR,UP,Ukraine,Ukraine,Kyiv,Europe,UAH,Hryvnia,380,150,Europe,151,Eastern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,603700,45415596
+784,AE,ARE,AE,United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,AED,Dirham,971,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,82880,4975593
+826,GB,GBR,UK,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,Europe,GBP,Pound,44,150,Europe,154,Northern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,244820,62348447
+840,US,USA,US,United States,United States of America,Washington,North America,USD,Dollar,1,19,Americas,21,Northern America,Not found,Not found,Independent,Developed,Not found,Not found,Not found,9629091,310232863
+581,UM,UMI,Not found,United States Minor Outlying Islands,United States Minor Outlying Islands,Not found,Oceania,USD,Dollar ,1,9,Oceania,57,Micronesia,Not found,Not found,Territories of US,Developing,Not found,Not found,Not found,0,0
+858,UY,URY,UY,Uruguay,Uruguay,Montevideo,South America,UYU,Peso,598,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,176220,3477000
+860,UZ,UZB,UZ,Uzbekistan,Uzbekistan,Tashkent,Asia,UZS,Som,998,142,Asia,143,Central Asia,Not found,Not found,Independent,Developing,Not found,TRUE,Not found,447400,27865738
+548,VU,VUT,NH,Vanuatu,Vanuatu,Port Vila,Oceania,VUV,Vatu,678,9,Oceania,54,Melanesia,Not found,Not found,Independent,Developing,TRUE,Not found,TRUE,12200,221552
+336,VA,VAT,VT,Vatican,Holy See,Vatican City,Europe,EUR,Euro,379,150,Europe,39,Southern Europe,Not found,Not found,Independent,Developed,Not found,Not found,Not found,0.44,921
+862,VE,VEN,VE,Venezuela,Venezuela (Bolivarian Republic of),Caracas,South America,VES,Bolivar Soberano,58,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,Not found,Not found,Not found,912050,27223228
+704,VN,VNM,VM,Vietnam,Viet Nam,Hanoi,Asia,VND,Dong,84,142,Asia,35,South-eastern Asia,Not found,Not found,Independent,Developing,Not found,Not found,Not found,329560,89571130
+876,WF,WLF,WF,Wallis and Futuna,Wallis and Futuna Islands,Mata Utu,Oceania,XPF,Franc,681,9,Oceania,61,Polynesia,Not found,Not found,Territory of FR,Developing,Not found,Not found,Not found,274,16025
+732,EH,ESH,WI,Western Sahara,Western Sahara,El-Aaiun,Africa,MAD,Dirham,212,2,Africa,15,Northern Africa,Not found,Not found,In contention,Developing,Not found,Not found,Not found,266000,273008
+887,YE,YEM,YM,Yemen,Yemen,Sanaa,Asia,YER,Rial,967,142,Asia,145,Western Asia,Not found,Not found,Independent,Developing,Not found,Not found,TRUE,527970,23495361
+894,ZM,ZMB,ZA,Zambia,Zambia,Lusaka,Africa,ZMW,Kwacha,260,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,TRUE,752614,13460305
+716,ZW,ZWE,ZI,Zimbabwe,Zimbabwe,Harare,Africa,ZWL,Dollar,263,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,Not found,TRUE,Not found,390580,13061000
